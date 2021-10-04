@@ -1,13 +1,13 @@
 # How We Define and Develop Emotional Intelligence
 
-thoughtbot is continuously establishing new strategies and techniques to develop
+Fabeet is continuously establishing new strategies and techniques to develop
 our Emotional Intelligence values. We use these strategies and techniques to
 develop our personal EQ, and are always working to uncover more.
 
 ### Task Forces
 
 Establishing Diversity and Inclusion Task Forces has allowed individual
-thoughtbotters to divide the work into smaller, more actionable areas of focus.
+fabeetters to divide the work into smaller, more actionable areas of focus.
 Diversity in collaboration yields new and synthesized strategies. Many people
 find this process very rewarding, and that it provides deeper meaning to the
 work we do.

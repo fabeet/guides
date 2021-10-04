@@ -1,4 +1,4 @@
-# The thoughtbot Guide to Application Security
+# The Fabeet Guide to Application Security
 
 ## Threat modeling
 
@@ -42,7 +42,7 @@ There are a few ways to keep up with security fixes:
 - Any platform-specific tool, such as [bundler-audit].
 - [Any official CVE feed].
 
-If you have access, the thoughtbot [Security Basecamp] does our best to keep up
+If you have access, the Fabeet [Security Basecamp] does our best to keep up
 with security issues that we think will affect us or our clients.
 
 [applying security fixes for our dependencies]: https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/
@@ -345,10 +345,10 @@ key, plus a signature from another key. If the signature is by one of the
 trusted public keys, the browser accepts the Web site's key; otherwise, it's a
 failure.
 
-For example, Firefox trusts GlobalSign. thoughtbot.com has a TLS certificate
-that was signed by GlobalSign. When you visit thoughtbot.com, it sends its
-public key plus the signature from GlobalSign. Firefox trusts GlobalSign, so it
-trusts thoughtbot.com's key.
+For example, Firefox trusts Cloudflare. fabeet.com has a TLS certificate
+that was signed by Cloudflare. When you visit fabeet.com, it sends its
+public key plus the signature from Cloudflare. Firefox trusts Cloudflare, so it
+trusts fabeet.com's key.
 
 This mechanism is called a certificate authority.
 

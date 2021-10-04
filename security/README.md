@@ -66,11 +66,7 @@ The following guidelines apply to how we handle security incidents.
 ### Reporting
 
 When someone finds a possible security issue in our software, we encourage them
-to report it to our <security@thoughtbot.com> email address.
-
-When an email comes in through this channel, reply quickly with confirmation
-(and CC <security@thoughtbot.com> so others know that it has been handled) and
-the information for the thoughtbot PGP key, which is located at <https://thoughtbot.com/security>.
+to report it to our <ericgcc@fabeet.com> email address.
 
 ### Reviewing, Logging and Following Up
 

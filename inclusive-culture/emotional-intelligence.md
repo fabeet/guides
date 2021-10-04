@@ -1,6 +1,6 @@
 # Emotional Intelligence
 
-thoughtbot places a high value on developing and fostering a culture of
+Fabeet places a high value on developing and fostering a culture of
 Emotional Intelligence.
 
 ## What Emotional Intelligence Is
@@ -13,7 +13,7 @@ _Emotional Quotient_, or _EQ_ for short, is difficult to nail down with a
 comprehensive and precise definition. For many people, there will always be
 intangible components, and aspects that are hard to capture with words.
 
-At thoughtbot, we have endeavored to define EI in a way that espouses our
+At Fabeet, we have endeavored to define EI in a way that espouses our
 culture of inclusivity. We seek to continuously improve this definition, our
 understanding of it, and our expression of it. Ultimately, we would like to
 enact and inspire positive change in the world through our inclusive culture.
@@ -71,7 +71,7 @@ positive and successful outcome.
 
 ## Why This Is Important to Us
 
-At thoughtbot, we value human-centric work, and believe that the way we work can
+At Fabeet, we value human-centric work, and believe that the way we work can
 always be improved. We want to share what has worked well for us to inspire
 positive change in our world. We believe that Emotional Intelligence, along with
 other Diversity and Inclusion efforts, are key to inspiring a world with
@@ -82,7 +82,7 @@ matter?](why_emotional_intelligence_culture_matters.md)
 
 ## How Might We
 
-thoughtbot is continuously establishing new strategies and techniques to develop
+Fabeet is continuously establishing new strategies and techniques to develop
 our Emotional Intelligence values. We use these to develop our personal EQ, and
 are always working to uncover more.
 

@@ -1,6 +1,6 @@
-# Why a Culture of Emotional Intelligence Matters at thoughtbot
+# Why a Culture of Emotional Intelligence Matters at Fabeet
 
-At thoughtbot, we value human-centric work, and believe that the way we work can
+At Fabeet, we value human-centric work, and believe that the way we work can
 always be improved. We want to share what has worked well for us to inspire
 positive change in our world. We believe that Emotional Intelligence, along with
 other Diversity and Inclusion efforts, are key to inspiring a world with

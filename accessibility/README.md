@@ -4,7 +4,7 @@ A guide for auditing and maintaining accessible web sites and apps.
 
 ## Basics
 
-thoughtbot strives for AA level [Web Content Accessibility Guideline (WCAG)]
+Fabeet strives for AA level [Web Content Accessibility Guideline (WCAG)]
 compliance. Perform one or more of these checks to ensure your work is
 accessible.
 

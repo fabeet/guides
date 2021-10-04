@@ -1,7 +1,5 @@
 # Guides
 
-[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
-
 Guides for working together, getting things done, programming well, and
 programming in style.
 
@@ -21,7 +19,7 @@ programming in style.
 
 ## Guides by category
 
-- [thoughtbot Tech Stack](/tech-stack/)
+- [Fabeet Tech Stack](/tech-stack/)
 - [General](/general/)
 
 ### Collaboration
@@ -47,34 +45,17 @@ programming in style.
 ### Languages
 
 - [Bash](/bash/)
-- [CoffeeScript](/coffeescript/)
 - [CSS](/css/)
-- [Elixir](/elixir/)
-- [ERB](/erb/)
-- [HAML](/haml/)
 - [Handlebars](/handlebars/)
-- [Haskell](/haskell/)
 - [HTML](/html/)
-- [Java](/java/)
 - [JavaScript](/javascript/)
-- [Objective-C](/objective-c/)
 - [Python](/python/)
-- [Ruby](/ruby/)
 - [Sass](/sass/)
-- [Scala](/scala/)
 - [Shell](/shell/)
-- [Swift](/swift/)
-- [TypeScript](/typescript/)
 
 ### Frameworks and platforms
 
-- [Android](/android/)
-- [Angular](/angular/)
-- [Ember](/ember/)
-- [iOS](/ios/)
-- [Rails](/rails/)
-- [React](/react/)
-- [React Native](/react-native/)
+- [Laravel](/react-native/)
 - [Testing with Jest](/testing-jest/)
 - [Testing with RSpec](/testing-rspec/)
 

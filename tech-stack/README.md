@@ -1,4 +1,4 @@
-# thoughtbot Stack
+# Fabeet Stack
 
 We have a standard technology stack that we use for each new project by default.
 This provides a proven base for rapid, quality development and ensures we have a
@@ -17,7 +17,7 @@ inappropriate for the task at hand. This allows us to practice our value of
 
 ## Core Stack
 
-Most developers at thoughtbot learn our Core Stack. The stack is broken up into
+Most developers at Fabeet learn our Core Stack. The stack is broken up into
 layers and each layer depends on another layer. This allows us to swap out an
 entire layer when necessary without losing all the decisions made for other
 layers. Developers will have varying levels of experience with each layer, but
