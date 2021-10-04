@@ -27,7 +27,6 @@ programming in style.
 - [Code Review](/code-review/)
 - [Communication](/communication/)
 - [Inclusive Culture](/inclusive-culture/)
-- [Open Source](/open-source/)
 - [Product Review](/product-review/)
 - [Terminology](/terminology/)
 - [Working Together](/working-together/)
@@ -49,22 +48,32 @@ programming in style.
 - [Handlebars](/handlebars/)
 - [HTML](/html/)
 - [JavaScript](/javascript/)
+- [PHP](/php/)
 - [Python](/python/)
 - [Sass](/sass/)
 - [Shell](/shell/)
 
-### Frameworks and platforms
+### Frameworks, libraries and platforms
 
-- [Laravel](/react-native/)
+- [Bootstrap](/bootstrap/)
+- [jQuery](/jquery/)
+- [Laravel](/laravel/)
 - [Testing with Jest](/testing-jest/)
-- [Testing with RSpec](/testing-rspec/)
+- Testing with PHPUnit (Coming Soon)
+- Testing with Unittest (Coming Soon)
+- Vue.js (Coming Soon)
 
 ### Tools
 
 - [Git](/git/)
 - [GraphQL](/graphql/)
+- [MySQL](/mysql/)
 - [Postgres](/postgres/)
 - [Relational Databases](/relational-databases/)
+
+### Look and feel
+
+- [Web](/look-and-feel/web/)
 
 ## Contributing
 
@@ -77,15 +86,16 @@ waiting a week for everybody to leave feedback**.
 ## Credits
 
 Thank you,
-[contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
+[contributors](https://github.com/fabeet/guides/graphs/contributors)!
 
-![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
+![Fabeet](fabeet.svg)
 
-Guides is maintained by [thoughtbot, inc](https://thoughtbot.com).
+Guides is maintained by [Fabeet Technologies, Inc.](https://fabeet.com) and inspired from thoughtbot's Guides ([thoughtbot, inc](https://thoughtbot.com)).
 
 ## License
 
-Guides is © 2020 thoughtbot, inc. It is distributed under the [Creative Commons
+Guides is © 2021 Fabeet Technologies, Inc. It is distributed under the [Creative Commons
 Attribution License](http://creativecommons.org/licenses/by/3.0/).
 
+The names and logos for Fabeet are trademarks of Fabeet Technologies, Inc.
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
