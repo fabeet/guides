@@ -3,6 +3,8 @@
 Guides for working together, getting things done, programming well, and
 programming in style.
 
+[thoughtbot](https://thoughtbot.com/playbook)'s playbook is a good source of information.
+
 ## High level guidelines
 
 - Be consistent.
@@ -56,8 +58,8 @@ programming in style.
 ### Frameworks, libraries and platforms
 
 - [Bootstrap](/bootstrap/)
-- [jQuery](/jquery/)
-- [Laravel](/laravel/)
+- [jQuery](/javascript/jquery/)
+- [Laravel](/php/laravel/)
 - [Testing with Jest](/testing-jest/)
 - Testing with PHPUnit (Coming Soon)
 - Testing with Unittest (Coming Soon)

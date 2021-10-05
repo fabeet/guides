@@ -1,5 +1,7 @@
 # JavaScript
 
+- Follow [Wordpress Javascript Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/javascript/)
+
 [Sample](sample.js)
 
 - Use the latest stable JavaScript syntax with a transpiler, such as [babel].
