@@ -7,6 +7,7 @@ programming in style.
 
 ## High level guidelines
 
+- Program in English.
 - Be consistent.
 - Don't rewrite existing code to follow this guide.
 - Don't violate a guideline without a good reason.
