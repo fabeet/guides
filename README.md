@@ -33,6 +33,9 @@ programming in style.
 - [Product Review](/product-review/)
 - [Terminology](/terminology/)
 - [Working Together](/working-together/)
+- Getting Real
+- ShapeUp
+- Remote Work
 
 ### Protocols
 
