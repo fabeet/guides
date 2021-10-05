@@ -44,7 +44,7 @@ while building applications.
 
 - Use Laravel for new applications.
 - A python framework for building webapps are also allowed, for example: Django, Flask or FastAPI.
-- Use AWS with git deploys and pipelines for deploying applications ([1])[https://www.linkedin.com/pulse/cicd-php-projects-aws-partha-sarathi-kundu-he-his-/], ([2])[https://devops.com/using-laravel-and-aws-what-you-need-to-know/].
+- Use AWS with git deploys and pipelines for deploying applications [[1](https://www.linkedin.com/pulse/cicd-php-projects-aws-partha-sarathi-kundu-he-his-/), [2](https://devops.com/using-laravel-and-aws-what-you-need-to-know/)].
 - Use test-driven development to ensure quality.
 - Use GitHub pull-requests to conduct peer code review.
 - Use continuous integration to ensure tests continue to pass.
