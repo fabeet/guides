@@ -16,10 +16,10 @@ If they are sitting next to you, have them review the changes in person.
 
 ## Screencast
 
-Use [Licecap] to share a screencast gif in the project's [Basecamp].
+Use [Licecap] to share a screencast gif in the project's [Clickup].
 
 [licecap]: http://www.cockos.com/licecap/
-[basecamp]: https://basecamp.com/
+[clickup]: https://clickup.com/
 
 ## SSH tunnel
 
@@ -35,8 +35,4 @@ Then, share the ngrok URL in the project's Basecamp.
 
 ## Video chat and screenshare
 
-Start a Google Hangout in the project's Basecamp:
-
-```text
-/hangout
-```
+Start a conversation in the project's Discord chanel.

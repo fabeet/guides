@@ -4,12 +4,27 @@ A guide for programming within version control.
 
 ## Best Practices
 
+- Use [toptal](https://www.toptal.com/developers/gitignore) to generate .gitignore files for new projects.
 - Avoid merge commits by using a [rebase workflow].
 - Squash multiple trivial commits into a single commit.
+- Commit early and often.
 - Write a [good commit message].
+- Add to commit only chunks of modified files that are related to a single context (modification).
+- Use [Common-Flow](https://commonflow.org/) as branching strategy.
+- Use one of the following [Collaboratovie Models in Github](http://www.goring.org/resources/project-management.html) for projects. At Fabeet we encourage the "Branch and Pull" model.
+- Use [Semantic Versioning](https://semver.org/) to know how version numbers have to be assigned and incremented.
 
 [rebase workflow]: https://github.com/thoughtbot/guides/blob/main/git/README.md#merge
-[good commit message]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+[good commit message]: commit-message/
+
+## Resources
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+- [Learn Git- Git tutorials, workflows and commands - Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+## Recommended Tools
+- [SourceTree](https://www.sourcetreeapp.com/)
+- [GitKraken](https://www.gitkraken.com/)
 
 ## Maintain a Repo
 
@@ -29,7 +44,7 @@ Create a local feature branch based off `main`.
 ```console
 git checkout main
 git pull
-git checkout -b <branch-name>
+git checkout -b change/<branch-name>
 ```
 
 Rebase frequently to incorporate upstream changes.
@@ -54,12 +69,11 @@ git commit --verbose
 
 Write a [good commit message]. Example format:
 
-    Present-tense summary under 50 characters
+    <type>[optional scope]: <description>
 
-    - More information about commit (under 72 characters).
-    - More information about commit (under 72 characters).
+    [optional body] - used to explain the what and why of a commit, not the how. Wrap the body at 72 characters in each line.
 
-    http://project.management-system.com/ticket/123
+    [optional footer(s)] - used to reference issue tracker IDs
 
 If you've created more than one commit, [use `git rebase` interactively] to squash them into cohesive commits with good
 messages:
@@ -76,9 +90,9 @@ git push origin <branch-name>
 
 Submit a [GitHub pull request].
 
-Ask for a code review in the project's chat room.
+Ask for a code review in the project's chat room (Discord) or by putting the task in the "Review" column in clickup, mentioning the code owner.
 
-[good commit message]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+[good commit message]: commit-message/
 [use `git rebase` interactively]: https://help.github.com/articles/about-git-rebase/
 [github pull request]: https://help.github.com/articles/using-pull-requests/
 

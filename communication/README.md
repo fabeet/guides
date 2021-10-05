@@ -1,8 +1,7 @@
 # Communication
 
-A guide for communicating within Fabeet.
+At Fabeet we promote communication through our collaboration tools:
 
-## Tickets
+- You can start a chart, a voice or video conversion on the Discord server.
 
-- People assign themselves to tickets. When in doubt, do not assign a ticket to
-  someone.
+- You can start a conversation and make mentions of people in a specific task directly in Clickup.

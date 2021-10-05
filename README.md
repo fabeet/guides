@@ -65,7 +65,7 @@ programming in style.
 
 ### Tools
 
-- [Git](/git/)
+- [Git and versioning](/git/)
 - [GraphQL](/graphql/)
 - [MySQL](/mysql/)
 - [Postgres](/postgres/)
