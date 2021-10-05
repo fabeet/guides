@@ -24,7 +24,7 @@ Note: This is highly opiniated so we might decide later to switch to the oposite
 ### Aliases
 
 * MUST use the AS keyword.
-* MUST be camelCase.
+* MUST be snake_case.
 
 ### Subqueries and other expressions
 
@@ -40,7 +40,7 @@ Note: This is highly opiniated so we might decide later to switch to the oposite
 
   Example:
   ```
-  SELECT birthDate
+  SELECT birth_date
   ```
 
 * Column name MUST be specified on a separate line below the SELECT keyword, indented, when selecting multiple columns.
@@ -48,9 +48,9 @@ Note: This is highly opiniated so we might decide later to switch to the oposite
   Example:
   ```
   SELECT
-          firstName
-       ,  lastName
-       ,  birthDate
+          first_name
+       ,  last_name
+       ,  birth_date
   ```
 
 ### FROM clause
@@ -62,8 +62,8 @@ Note: This is highly opiniated so we might decide later to switch to the oposite
 Example:
 ```
 SELECT
-        person.firstName
-     ,  person.lastName
+        person.first_name
+     ,  person.last_name
      ,  account.balance
   FROM  people AS person
  INNER
@@ -73,7 +73,7 @@ SELECT
 
 ### JOIN clause
 
-* Inner join MUST be defined using INNER JOIN keyword, the usage of short JOIN keyword variant is prohibited. 
+* Inner join MUST be defined using INNER JOIN keyword, the usage of short JOIN keyword variant is prohibited.
 * Left/Right outer joins MUST be defined using LEFT/RIGHT JOIN keyword, the usage of long oboslete LEFT/RIGHT OUTER JOIN keyword is prohibited.
 * Joined tables MUST have an alias.
 
@@ -108,11 +108,11 @@ SELECT
       ON  account.person_id = person.id
    WHERE
           (
-                  YEAR(person.birthDate) >= 2000
-             AND  person.firstName = "Nikola"
+                  YEAR(person.birth_date) >= 2000
+             AND  person.first_name = "Nikola"
           )
           OR (
-                  MONTH(person.birthDate) = 5
+                  MONTH(person.birth_date) = 5
              AND  (
                          account.column_d = 1
                     AND  account.column_e IS NULL
@@ -152,9 +152,9 @@ Example:
 ```
 INSERT 
   INTO  people (
-        firstName
-     ,  lastName
-     ,  birthDate
+        first_name
+     ,  last_name
+     ,  birth_date
   )
 ```
 
