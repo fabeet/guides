@@ -27,8 +27,8 @@ while building applications.
 ### UI
 
 - Use server-rendered HTML when possible as a UI layer.
-- Use React when building components with a client-side framework.
-- Use TypeScript when writing client-side code.
+- Use jQuery when building components with a client-side framework.
+- Use Javascript and jQuery when writing client-side code.
 - Avoid building single-page applications for the web.
 - When building a cross-platform mobile app that will be delivered via an app
   store, use React Native.
@@ -39,31 +39,30 @@ while building applications.
 
 ### Web
 
-- Use Ruby on Rails for new applications.
-- Use [Suspenders] to generate new Rails applications and as a reference for
-  preferred library choices.
-- Use Heroku with git deploys and pipelines for deploying applications.
+- Use Laravel new applications.
+- Use AWS with git deploys and pipelines for deploying applications.
 - Use test-driven development to ensure quality.
 - Use GitHub pull-requests to conduct peer code review.
 - Use continuous integration to ensure tests continue to pass.
 - Use a staging server to ensure new features work as expected before deploying
   to production.
 
-[suspenders]: https://github.com/thoughtbot/suspenders
-
 ### Storage
 
-- Use Postgres to store most data.
+- Use Postgres or MySQL to store most data.
+- Use AWS S3.
 
 ### Messaging
 
-- Use Kafka when producing and consuming messages between services.
-- Use `ruby-kafka` by default when connecting to Kafka from Ruby applications.
+- Use [twilio] or [vonage] when producing and consuming messages between services.
+- Use [twilio] by default when using message from Laravel applications.
+
+[twilio]: https://www.twilio.com/
+[vonage]: https://www.vonage.com/
 
 ### Data
 
-- Use services in the same Rails application for building data pipelines on top
-  of Kafka.
+- Use services in the same Laravel application for building data pipeline.
 
 ## Specialized Stacks
 
